@@ -1,6 +1,6 @@
-@author: Natalie Pilkington González
+`@author` [Natalie Pilkington González](https://github.com/napilkington)
 
-@author: Daniel Ramírez Vaquero
+`@author` [Daniel Ramírez Vaquero](https://github.com/DaniRamirezVaquero)
 
 
 # galletas_maria
