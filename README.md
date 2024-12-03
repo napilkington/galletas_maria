@@ -1,3 +1,7 @@
+@author: Natalie Pilkington González
+@author: Daniel Ramírez Vaquero
+
+
 # galletas_maria
 Este proyecto implementa un sistema de conocimiento en CLIPS para replicar el proceso artesanal de horneado de galletas de la abuela María, quien ajusta la temperatura del horno en función del color de las galletas. Utilizando un índice cromático que mide el estado de cocción (donde 0 representa galletas crudas y 10 galletas chamuscadas), el sistema emplea lógica difusa para tomar decisiones basadas en tres categorías: crudas, medio hechas y doraditas. Cada categoría determina un rango específico de temperatura del horno: baja, media o alta.
 
