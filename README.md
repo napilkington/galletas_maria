@@ -7,5 +7,7 @@ Este proyecto implementa un sistema de conocimiento en CLIPS para replicar el pr
 
 El sistema incluye una base de conocimiento con reglas que simulan los ajustes realizados por la abuela, como incrementar la temperatura si las galletas están crudas o reducirla si están doradas. Este enfoque asegura un horneado preciso y consistente. Además, el sistema puede calcular automáticamente la temperatura óptima para un índice cromático específico, como el valor 6, lo que facilita la automatización del proceso mientras conserva el toque tradicional de las galletas caseras.
 
+Se adjunta imagen con el codigo usado en fuzzyClips para ejecutar el proyecto.
+
 ![image](https://github.com/user-attachments/assets/e21915ab-4c37-45c8-8b38-e58426f37274)
 
